@@ -36,3 +36,7 @@ When the input sound exceeds the threshold, the program will record a 5-second c
 
 Click the "Stop Monitoring" button to stop monitoring the microphone input.
 This script allows for real-time audio monitoring, recording, transcription, and display in a GUI using PyQt5 and OpenAI Whisper. Ensure your microphone is properly set up and accessible by the pyaudio library.
+
+
+Uploading 螢幕錄影 2024-06-06 晚上11.33.21.mov…
+
