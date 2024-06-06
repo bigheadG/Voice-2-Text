@@ -8,8 +8,8 @@ PyQt5 for the GUI
 pyaudio for audio recording and monitoring
 whisper for transcription (you might need the specific Whisper wrapper or Hugging Face Transformers if directly using Whisper is not available)
 
-    pip install PyQt5 pyaudio whisper transformers torch numpy
-
+    pip install PyQt5 pyaudio
+    pip install openai-whisper
 
 ## Explanation
 1:AudioMonitor Class:
@@ -38,5 +38,8 @@ Click the "Stop Monitoring" button to stop monitoring the microphone input.
 This script allows for real-time audio monitoring, recording, transcription, and display in a GUI using PyQt5 and OpenAI Whisper. Ensure your microphone is properly set up and accessible by the pyaudio library.
 
 
-Uploading 螢幕錄影 2024-06-06 晚上11.33.21.mov…
+
+https://github.com/bigheadG/Voice-2-Text/assets/2010446/4f02205d-3668-49d4-b7fe-491ccc8e2e2d
+
+
 
