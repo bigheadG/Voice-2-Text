@@ -1,5 +1,16 @@
 # Voice-2-Text
 Voice Recognize
+
+## Prerequisites
+Ensure you have the following installed:
+
+PyQt5 for the GUI
+pyaudio for audio recording and monitoring
+whisper for transcription (you might need the specific Whisper wrapper or Hugging Face Transformers if directly using Whisper is not available)
+
+    pip install PyQt5 pyaudio whisper transformers torch numpy
+
+
 ## Explanation
 1:AudioMonitor Class:
 
